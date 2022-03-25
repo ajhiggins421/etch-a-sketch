@@ -21,7 +21,7 @@ function makeGrid(size=16){
 makeGrid();
 
 function changeGrid(){
-    let size = parseInt(prompt("New gride (1-100): "));
+    let size = parseInt(prompt("New grid size (1-100): "));
     if(size < 0 || size > 100){
         alert("Grid must be between 0 and 100");
         return;
