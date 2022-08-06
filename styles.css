@@ -34,7 +34,7 @@ button {
     display: flex;
     min-width: 700px;
     min-height: 700px;
-    border: 10px solid red;
+    border: 12px solid red;
     border-radius: 20px;
 }
 
