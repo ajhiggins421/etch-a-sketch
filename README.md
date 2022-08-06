@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Etch A Sketch
 
 ## Links
 - [Try Landing Page here!](https://ajhiggins421.github.io/etch-a-sketch/)
